@@ -1,6 +1,10 @@
 {
     "VSCord.enabled": true,
     "cSpell.words": [
-        "DYNO"
+        "DYNO",
+        "floodwaited",
+        "missrose",
+        "mkdirs",
+        "workdir"
     ]
 }
